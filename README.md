@@ -37,7 +37,7 @@
 
 <p align="center">
   <img src="assets/stats-languages.svg" width="49%" alt="Most used languages: Jupyter Notebook 62%, Python 24%, TypeScript 7%, JavaScript 5%" />
-  <img src="assets/stats-mission.svg" width="49%" alt="Mission log: 5 public repositories, 3 live demos, competing in AI Challenge HCMC 2026, based in Ho Chi Minh City" />
+  <img src="assets/stats-mission.svg" width="49%" alt="Mission log: 5 public projects, 3 live demos, competing in AI Challenge HCMC 2026, based in Ho Chi Minh City" />
 </p>
 
 <p align="center">
