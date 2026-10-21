@@ -27,7 +27,7 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#38bdf8&color_dots=#161b2e,#2e1065,#5b21b6,#8b5cf6,#c4b5fd
 
       - name: Push the SVGs to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v5.0.0
         with:
           target_branch: output
           build_dir: dist
